@@ -1,5 +1,7 @@
 # APRS Track Direct
 
+Install script  (need to test) curl -sSL https://raw.githubusercontent.com/aFriendlyMedic/trackdirectautoinstall/main/install.sh | sudo bash
+
 **APRS Track Direct** is a suite of tools designed to facilitate the creation and operation of an APRS-based website. It supports data from sources like APRS-IS, CWOP-IS, OGN, and other systems adhering to the APRS specification.
 
 The suite includes:
